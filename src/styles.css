@@ -2,3 +2,14 @@
   font-family: sans-serif;
   text-align: center;
 }
+.hii:hover{
+  height: 200px;
+  width: 100%;
+  
+  line-height: 200px;
+  font-size: 4rem;
+  color: white;
+  border-radius: 20px;
+  text-shadow: 4px 4px 20px rgb(0, 0, 0);
+  background-image: linear-gradient(45deg, darkblue, lightblue, cyan);
+}
